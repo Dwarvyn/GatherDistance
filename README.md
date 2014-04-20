@@ -1,0 +1,4 @@
+WildstarAddons
+==============
+
+Wildstar Addons
