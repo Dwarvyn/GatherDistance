@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Forms>
+    <Form Class="Window" LAnchorPoint=".5" LAnchorOffset="-120" TAnchorPoint="0" TAnchorOffset="13" RAnchorPoint=".5" RAnchorOffset="120" BAnchorPoint="0" BAnchorOffset="79" RelativeToClient="0" Font="Default" Text="" BGColor="white" TextColor="white" Template="CRB_TooltipUpper" TooltipType="OnCursor" Name="SimpleTargetFrame" Border="1" Picture="1" SwallowMouseClicks="1" Moveable="1" Escapable="0" Overlapped="1" Visible="0" UseTemplateBG="1" DT_CENTER="1"/>
+</Forms>
