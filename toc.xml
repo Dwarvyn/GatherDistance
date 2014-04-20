@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Pur" APIVersion="8" Name="GatherDistance" Description="Shows the distance to gathering nodes">
+    <Script Name="GatherDistance.lua"/>
+</Addon>
